@@ -1,0 +1,9 @@
+---
+layout: post
+title: "第一篇博客"
+date: 2013-03-24 16:35
+comments: true
+categories: 
+---
+
+首次来到程序员博客世界，请多多指教
